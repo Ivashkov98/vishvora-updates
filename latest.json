@@ -1,9 +1,9 @@
 {
-  "version": "0.26.2",
-  "code": 26002,
-  "apk": "Vishvora_0.26.2.apk",
-  "sha256": "11fded4ef21a40e3cea09caf48597c62aeb3845dbbc5ed95d7d3c7395472f36e",
+  "version": "0.26.3",
+  "code": 26003,
+  "apk": "Vishvora_0.26.3.apk",
+  "sha256": "bea6910e47edaf29ed55144fef2b763160db1eb279d9712fcfbba706579a9299",
   "size": 10852585,
-  "notes": "A test update, to check that Vishvora updates itself over the internet. Nothing else changed.",
+  "notes": "Bookmarks and notes lists fixed; \"Continue from bookmark\" on the closed book; the page slider moves only when its knob is dragged, and \"Back to page\" undoes a jump.",
   "date": "2026-11-20"
 }
