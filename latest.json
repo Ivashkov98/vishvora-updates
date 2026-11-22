@@ -1,9 +1,9 @@
 {
-  "version": "0.26.3",
-  "code": 26003,
-  "apk": "Vishvora_0.26.3.apk",
-  "sha256": "bea6910e47edaf29ed55144fef2b763160db1eb279d9712fcfbba706579a9299",
+  "version": "0.26.4",
+  "code": 26004,
+  "apk": "Vishvora_0.26.4.apk",
+  "sha256": "062567c622f6798efda7d43a37725fd8d53272207d786a0a167916c15dc43ebc",
   "size": 10852585,
-  "notes": "Bookmarks and notes lists fixed; \"Continue from bookmark\" on the closed book; the page slider moves only when its knob is dragged, and \"Back to page\" undoes a jump.",
-  "date": "2026-11-20"
+  "notes": "Opens on the bookshelf when you start it again; the page-turn shadow sits on the page edge.",
+  "date": "2026-11-22"
 }
