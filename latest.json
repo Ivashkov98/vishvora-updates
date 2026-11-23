@@ -1,9 +1,9 @@
 {
-  "version": "0.26.4",
-  "code": 26004,
-  "apk": "Vishvora_0.26.4.apk",
-  "sha256": "062567c622f6798efda7d43a37725fd8d53272207d786a0a167916c15dc43ebc",
+  "version": "0.26.5",
+  "code": 26005,
+  "apk": "Vishvora_0.26.5.apk",
+  "sha256": "0a17b734b6b884004d60528831a1ea7a2ffaf6ab44b2955ce3ff85b0a4afe97a",
   "size": 10852585,
-  "notes": "Opens on the bookshelf when you start it again; the page-turn shadow sits on the page edge.",
-  "date": "2026-11-22"
+  "notes": "Opened again, the shelf shows the first book in front; a book added from a file comes to the front.",
+  "date": "2026-11-23"
 }
