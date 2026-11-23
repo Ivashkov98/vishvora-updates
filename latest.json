@@ -1,9 +1,9 @@
 {
-  "version": "0.27.0",
-  "code": 27000,
-  "apk": "Vishvora_0.27.0.apk",
-  "sha256": "0bfa39119235675c77e6614d74f5efa6821ee07a4ef6aae41869f945f0abf604",
+  "version": "0.27.1",
+  "code": 27001,
+  "apk": "Vishvora_0.27.1.apk",
+  "sha256": "6861733234ddc6e5b9550854abf33a4b6b23d29bbf0df35e3a8e9e1377fa6b9c",
   "size": 10882325,
-  "notes": "Vishvora 0.27.0 - Sounds while you read: rain, a hearth, wind, the sea, a night forest (Reader, More, Sounds). \"Follow the story\" changes them with the page. - Home-screen widget \"Continue reading\", and shortcuts on the app icon (Continue, Add a book, New note). - Time left in the chapter and the book, at your own reading speed. - Ask the book: what happened so far, who someone is, what a passage means, from the pages you have read only. Needs a free Gemini key (paste it once).",
+  "notes": "Vishvora 0.27.1 - Ask the book: follow-up questions now remember what was asked and answered before. - Answers show italic and bold properly (no stray stars), and a screen reader reads the answer out when it arrives. - The keyboard's Go button saves the Gemini key.",
   "date": "2026-11-23"
 }
