@@ -1,9 +1,9 @@
 {
-  "version": "0.27.1",
-  "code": 27001,
-  "apk": "Vishvora_0.27.1.apk",
-  "sha256": "6861733234ddc6e5b9550854abf33a4b6b23d29bbf0df35e3a8e9e1377fa6b9c",
+  "version": "0.27.2",
+  "code": 27002,
+  "apk": "Vishvora_0.27.2.apk",
+  "sha256": "82f9ae1472aa4b7ab3dd953c22168c12484382b28bf448bfda6dfdd186bd03c9",
   "size": 10882325,
-  "notes": "Vishvora 0.27.1 - Ask the book: follow-up questions now remember what was asked and answered before. - Answers show italic and bold properly (no stray stars), and a screen reader reads the answer out when it arrives. - The keyboard's Go button saves the Gemini key.",
-  "date": "2026-11-23"
+  "notes": "Vishvora 0.27.2 - Reading is now truly full screen: the page and the page turn reach the top and bottom of the screen, and the text starts just below the camera. - \"Back to page\" sits at the bottom while you read, so it never covers the text.",
+  "date": "2026-11-25"
 }
