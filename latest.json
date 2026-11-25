@@ -1,9 +1,9 @@
 {
-  "version": "0.27.2",
-  "code": 27002,
-  "apk": "Vishvora_0.27.2.apk",
-  "sha256": "82f9ae1472aa4b7ab3dd953c22168c12484382b28bf448bfda6dfdd186bd03c9",
+  "version": "0.27.3",
+  "code": 27003,
+  "apk": "Vishvora_0.27.3.apk",
+  "sha256": "c9cf2e7c71ffb737efb1a02ccc65fb8c7f54431f84d5435aad86ab4a3aa0c6aa",
   "size": 10882325,
-  "notes": "Vishvora 0.27.2 - Reading is now truly full screen: the page and the page turn reach the top and bottom of the screen, and the text starts just below the camera. - \"Back to page\" sits at the bottom while you read, so it never covers the text.",
+  "notes": "Vishvora 0.27.3 - Page turns now fill the screen from top to bottom the whole way through, like Google Play Books: only the text bends, and the page underneath no longer shows above or below the turning page.",
   "date": "2026-11-25"
 }
